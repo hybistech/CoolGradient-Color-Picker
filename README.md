@@ -1,3 +1,3 @@
 # Cool Gradient Color Picker. 
-You could use the to find the best gradient color for your project.
+You could use this slim app find the best gradient color for your projects.
 Enjoy!
