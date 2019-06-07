@@ -1,0 +1,19 @@
+{
+  "name": "coolgradient-color-picker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hybistech/CoolGradient-Color-Picker.git"
+  },
+  "author": "Ibrahim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hybistech/CoolGradient-Color-Picker/issues"
+  },
+  "homepage": "https://github.com/hybistech/CoolGradient-Color-Picker#readme"
+}
